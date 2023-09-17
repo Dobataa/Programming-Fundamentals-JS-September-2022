@@ -1,2 +1,2 @@
-# Programming-Fundamentals-JS-September-2022
-This is a repository with solutions of problems in SoftUni Course: Programming Fundamentals with JS - September 2022
+# Programming-Fundamentals-JS
+This is a repository with solutions to problems in SoftUni Course: Programming Fundamentals with JS.
